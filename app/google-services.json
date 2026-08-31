@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129792490917",
+    "project_id": "instagram-bca74",
+    "storage_bucket": "instagram-bca74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129792490917:android:ddc5d5376b5268b7807c4c",
+        "android_client_info": {
+          "package_name": "com.williangoncalves.instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk8GX1RCRPA3uxge9kO_Vd1B9kPRhyHQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
